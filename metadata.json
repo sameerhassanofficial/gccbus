@@ -1,0 +1,8 @@
+{
+  "name": "Remix The GCC Bus - Cross-Border Travel",
+  "description": "Modern multi-city bus travel and curated itineraries connecting Doha, Bahrain, and Riyadh with luxury coaches and partner hotels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
